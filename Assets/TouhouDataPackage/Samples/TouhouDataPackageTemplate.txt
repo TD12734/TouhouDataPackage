@@ -5,6 +5,8 @@ case Character.IDs.Akyuu:
 	break;
 case Character.IDs.Alice:
 	break;
+case Character.IDs.Ariya:
+	break;
 case Character.IDs.Aunn:
 	break;
 case Character.IDs.Aya:
@@ -18,6 +20,8 @@ case Character.IDs.Byakuren:
 case Character.IDs.Chen:
 	break;
 case Character.IDs.Chimata:
+	break;
+case Character.IDs.Chimi:
 	break;
 case Character.IDs.Chiyari:
 	break;
@@ -171,11 +175,15 @@ case Character.IDs.Mugetu:
 	break;
 case Character.IDs.Mystia:
 	break;
+case Character.IDs.Nareko:
+	break;
 case Character.IDs.Narumi:
 	break;
 case Character.IDs.Nazrin:
 	break;
 case Character.IDs.Nemuno:
+	break;
+case Character.IDs.Nina:
 	break;
 case Character.IDs.Nitori:
 	break;
@@ -281,6 +289,8 @@ case Character.IDs.Toyohime:
 	break;
 case Character.IDs.Tsukasa:
 	break;
+case Character.IDs.Ubame:
+	break;
 case Character.IDs.Urumi:
 	break;
 case Character.IDs.Utsuho:
@@ -300,6 +310,8 @@ case Character.IDs.Yorihime:
 case Character.IDs.Yoshika:
 	break;
 case Character.IDs.Youmu:
+	break;
+case Character.IDs.Yuiman:
 	break;
 case Character.IDs.Yukari:
 	break;
@@ -332,6 +344,8 @@ case Character.Strings.Akyuu:
 	break;
 case Character.Strings.Alice:
 	break;
+case Character.Strings.Ariya:
+	break;
 case Character.Strings.Aunn:
 	break;
 case Character.Strings.Aya:
@@ -345,6 +359,8 @@ case Character.Strings.Byakuren:
 case Character.Strings.Chen:
 	break;
 case Character.Strings.Chimata:
+	break;
+case Character.Strings.Chimi:
 	break;
 case Character.Strings.Chiyari:
 	break;
@@ -498,11 +514,15 @@ case Character.Strings.Mugetu:
 	break;
 case Character.Strings.Mystia:
 	break;
+case Character.Strings.Nareko:
+	break;
 case Character.Strings.Narumi:
 	break;
 case Character.Strings.Nazrin:
 	break;
 case Character.Strings.Nemuno:
+	break;
+case Character.Strings.Nina:
 	break;
 case Character.Strings.Nitori:
 	break;
@@ -608,6 +628,8 @@ case Character.Strings.Toyohime:
 	break;
 case Character.Strings.Tsukasa:
 	break;
+case Character.Strings.Ubame:
+	break;
 case Character.Strings.Urumi:
 	break;
 case Character.Strings.Utsuho:
@@ -627,6 +649,8 @@ case Character.Strings.Yorihime:
 case Character.Strings.Yoshika:
 	break;
 case Character.Strings.Youmu:
+	break;
+case Character.Strings.Yuiman:
 	break;
 case Character.Strings.Yukari:
 	break;

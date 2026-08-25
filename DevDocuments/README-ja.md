@@ -10,7 +10,7 @@
 ## 概要
 東方資料包裹(とうほうしりょうほうか)は東方Projectのキャラクターの情報を取得可能なデータパッケージです。
 
-最新作(獣王園)、旧作、書籍のキャラクターまで網羅しています。
+最新作(錦上京)、旧作、書籍のキャラクターまで網羅しています。
 
 霊夢などの各キャラクターについて、以下の情報をソースコード上で簡単に取得可能です。
 
@@ -226,7 +226,7 @@ PlayerPrefs.SetInt(Character.ReisenSecond.String + "_Power", 20);
 ```cs
 Debug.Log (Character.Akyuu.ID); // 0
 Debug.Log (Character.Alice.ID); // 1
-Debug.Log (Character.Zanmu.ID); // 159
+Debug.Log (Character.Zanmu.ID); // 165
 ```
 
 #### ChangeLanguage
@@ -307,7 +307,7 @@ for (int i = 0; i < Character.length; i++)
    Character character = Character.Get (i);
    if (character != null)
    {
-      Debug.Log (character.String); // Akyuu, Alice, Aunn, ... , Yuuma, Yuyuko, Zanmu
+      Debug.Log (character.String); // Akyuu, Alice, Ariya, ... , Yuuma, Yuyuko, Zanmu
    }
 }
 ```
@@ -398,6 +398,7 @@ Assets/Resources/Pictures/CharacterディレクトリにCharacter.Stringと同�
 
 - 阿求(Akyuu)
 - アリス(Alice)
+- 阿梨夜(Ariya)
 - あうん(Aunn)
 - 文(Aya)
 - 弁々(Benben)
@@ -405,6 +406,7 @@ Assets/Resources/Pictures/CharacterディレクトリにCharacter.Stringと同�
 - 白蓮(Byakuren)
 - 橙(Chen)
 - 千亦(Chimata)
+- チミ(Chimi)
 - ちやり(Chiyari)
 - ちゆり(Chiyuri)
 - チルノ(Cirno)
@@ -481,9 +483,11 @@ Assets/Resources/Pictures/CharacterディレクトリにCharacter.Stringと同�
 - 百々世(Momoyo)
 - 夢月(Mugetu)
 - ミスティア(Mystia)
+- 馴子(Nareko)
 - 成美(Narumi)
 - ナズーリン(Nazrin)
 - ネムノ(Nemuno)
+- ニナ(Nina)
 - にとり(Nitori)
 - ぬえ(Nue)
 - 隠岐奈(Okina)
@@ -536,6 +540,7 @@ Assets/Resources/Pictures/CharacterディレクトリにCharacter.Stringと同�
 - 朱鷺子(Tokiko)
 - 豊姫(Toyohime)
 - 典(Tsukasa)
+- ウバメ(Ubame)
 - 潤美(Urumi)
 - 空(Utsuho)
 - わかさぎ姫(Wakasagihime)
@@ -546,6 +551,7 @@ Assets/Resources/Pictures/CharacterディレクトリにCharacter.Stringと同�
 - 依姫(Yorihime)
 - 芳香(Yoshika)
 - 妖夢(Youmu)
+- ユイマン(Yuiman)
 - 紫(Yukari)
 - ユキ(Yuki)
 - 夢子(Yumeko)

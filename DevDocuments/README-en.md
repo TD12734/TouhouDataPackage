@@ -10,7 +10,7 @@
 ## Overview
 Touhou Data Package is a data package that allows you to obtain information about Touhou Project characters.
 
-It covers characters from the latest works (Unfinished Dream of All Living Ghost), PC-98, and Books.
+It covers characters from the latest works (Fossilized Wonders), PC-98, and Books.
 
 The following information about each character, such as Reimu, can be easily obtained from the source code.
 
@@ -226,7 +226,7 @@ Therefore, it is not recommended to use it as a PlayerPrefs key.
 ```cs
 Debug.Log (Character.Akyuu.ID); // 0
 Debug.Log (Character.Alice.ID); // 1
-Debug.Log (Character.Zanmu.ID); // 159
+Debug.Log (Character.Zanmu.ID); // 165
 ```
 
 #### ChangeLanguage
@@ -307,7 +307,7 @@ for (int i = 0; i < Character.length; i++)
    Character character = Character.Get (i);
    if (character != null)
    {
-      Debug.Log (character.String); // Akyuu, Alice, Aunn, ... , Yuuma, Yuyuko, Zanmu
+      Debug.Log (character.String); // Akyuu, Alice, Ariya, ... , Yuuma, Yuyuko, Zanmu
    }
 }
 ```
@@ -398,6 +398,7 @@ Below are the English names of the characters supported by this package. (If the
 
 - Akyuu
 - Alice
+- Ariya
 - Aunn
 - Aya
 - Benben
@@ -405,6 +406,7 @@ Below are the English names of the characters supported by this package. (If the
 - Byakuren
 - Chen
 - Chimata
+- Chimi
 - Chiyari
 - Chiyuri
 - Cirno
@@ -481,9 +483,11 @@ Below are the English names of the characters supported by this package. (If the
 - Momoyo
 - Mugetu
 - Mystia
+- Nareko
 - Narumi
 - Nazrin
 - Nemuno
+- Nina
 - Nitori
 - Nue
 - Okina
@@ -536,6 +540,7 @@ Below are the English names of the characters supported by this package. (If the
 - Tokiko
 - Toyohime
 - Tsukasa
+- Ubame
 - Urumi
 - Utsuho
 - Wakasagihime
@@ -546,6 +551,7 @@ Below are the English names of the characters supported by this package. (If the
 - Yorihime
 - Yoshika
 - Youmu
+- Yuiman
 - Yukari
 - Yuki
 - Yumeko

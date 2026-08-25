@@ -143,167 +143,173 @@ namespace TouhouData
 		{
 			public const int Akyuu = 0;
 			public const int Alice = 1;
-			public const int Aunn = 2;
-			public const int Aya = 3;
-			public const int Benben = 4;
-			public const int Biten = 5;
-			public const int Byakuren = 6;
-			public const int Chen = 7;
-			public const int Chimata = 8;
-			public const int Chiyari = 9;
-			public const int Chiyuri = 10;
-			public const int Cirno = 11;
-			public const int Clownpiece = 12;
-			public const int Daiyousei = 13;
-			public const int Doremy = 14;
-			public const int Eika = 15;
-			public const int Eiki = 16;
-			public const int Eirin = 17;
-			public const int Ekisya = 18;
-			public const int Elis = 19;
-			public const int Ellen = 20;
-			public const int Elly = 21;
-			public const int Enoko = 22;
-			public const int Eternitylarva = 23;
-			public const int Flandre = 24;
-			public const int Futo = 25;
-			public const int Gengetu = 26;
-			public const int Genjii = 27;
-			public const int Hatate = 28;
-			public const int Hecatia = 29;
-			public const int Hina = 30;
-			public const int Hisami = 31;
-			public const int Ichirin = 32;
-			public const int Iku = 33;
-			public const int Junko = 34;
-			public const int Jyoon = 35;
-			public const int Kagerou = 36;
-			public const int Kaguya = 37;
-			public const int Kana = 38;
-			public const int Kanako = 39;
-			public const int Kasen = 40;
-			public const int Keiki = 41;
-			public const int Keine = 42;
-			public const int Kikuri = 43;
-			public const int Kisume = 44;
-			public const int Koakuma = 45;
-			public const int Kogasa = 46;
-			public const int Koishi = 47;
-			public const int Kokoro = 48;
-			public const int Komachi = 49;
-			public const int Konngara = 50;
-			public const int Kosuzu = 51;
-			public const int Kotohime = 52;
-			public const int Kurumi = 53;
-			public const int Kutaka = 54;
-			public const int Kyouko = 55;
-			public const int Letty = 56;
-			public const int Lilywhite = 57;
-			public const int Luize = 58;
-			public const int Lunarchild = 59;
-			public const int Lunasa = 60;
-			public const int Lyrica = 61;
-			public const int Mai = 62;
-			public const int Mamizou = 63;
-			public const int Maribel = 64;
-			public const int Marisa = 65;
-			public const int Mayumi = 66;
-			public const int Medicine = 67;
-			public const int Megumu = 68;
-			public const int Meira = 69;
-			public const int Meirin = 70;
-			public const int Merlin = 71;
-			public const int Mike = 72;
-			public const int Miko = 73;
-			public const int Mima = 74;
-			public const int Minamitsu = 75;
-			public const int Minoriko = 76;
-			public const int Misumaru = 77;
-			public const int Miyoi = 78;
-			public const int Mizuchi = 79;
-			public const int Mokou = 80;
-			public const int Momizi = 81;
-			public const int Momoyo = 82;
-			public const int Mugetu = 83;
-			public const int Mystia = 84;
-			public const int Narumi = 85;
-			public const int Nazrin = 86;
-			public const int Nemuno = 87;
-			public const int Nitori = 88;
-			public const int Nue = 89;
-			public const int Okina = 90;
-			public const int Orange = 91;
-			public const int Parsee = 92;
-			public const int Patchouli = 93;
-			public const int Raiko = 94;
-			public const int Ran = 95;
-			public const int Reimu = 96;
-			public const int Reisen = 97;
-			public const int ReisenSecond = 98;
-			public const int Remilia = 99;
-			public const int Renko = 100;
-			public const int Rika = 101;
-			public const int Rikako = 102;
-			public const int Rin = 103;
-			public const int Ringo = 104;
-			public const int Rinnosuke = 105;
-			public const int Rumia = 106;
-			public const int Ruukoto = 107;
-			public const int Sagume = 108;
-			public const int Saki = 109;
-			public const int Sakuya = 110;
-			public const int Sanae = 111;
-			public const int Sannyo = 112;
-			public const int Sara = 113;
-			public const int Sariel = 114;
-			public const int Satono = 115;
-			public const int Satori = 116;
-			public const int Seiga = 117;
-			public const int Seija = 118;
-			public const int Seiran = 119;
-			public const int Sekibanki = 120;
-			public const int Shinki = 121;
-			public const int Shinmyoumaru = 122;
-			public const int Shion = 123;
-			public const int Shizuha = 124;
-			public const int Singyoku = 125;
-			public const int Starsapphire = 126;
-			public const int Suika = 127;
-			public const int Sumireko = 128;
-			public const int Sunnymilk = 129;
-			public const int Suwako = 130;
-			public const int Syou = 131;
-			public const int Takane = 132;
-			public const int Teireida = 133;
-			public const int Tenshi = 134;
-			public const int Tewi = 135;
-			public const int Tojiko = 136;
-			public const int Tokiko = 137;
-			public const int Toyohime = 138;
-			public const int Tsukasa = 139;
-			public const int Urumi = 140;
-			public const int Utsuho = 141;
-			public const int Wakasagihime = 142;
-			public const int Wriggle = 143;
-			public const int Yachie = 144;
-			public const int Yamame = 145;
-			public const int Yatsuhashi = 146;
-			public const int Yorihime = 147;
-			public const int Yoshika = 148;
-			public const int Youmu = 149;
-			public const int Yukari = 150;
-			public const int Yuki = 151;
-			public const int Yumeko = 152;
-			public const int Yumemi = 153;
-			public const int Yuugenmagan = 154;
-			public const int Yuugi = 155;
-			public const int Yuuka = 156;
-			public const int Yuuma = 157;
-			public const int Yuyuko = 158;
-			public const int Zanmu = 159;
+			public const int Ariya = 2;
+			public const int Aunn = 3;
+			public const int Aya = 4;
+			public const int Benben = 5;
+			public const int Biten = 6;
+			public const int Byakuren = 7;
+			public const int Chen = 8;
+			public const int Chimata = 9;
+			public const int Chimi = 10;
+			public const int Chiyari = 11;
+			public const int Chiyuri = 12;
+			public const int Cirno = 13;
+			public const int Clownpiece = 14;
+			public const int Daiyousei = 15;
+			public const int Doremy = 16;
+			public const int Eika = 17;
+			public const int Eiki = 18;
+			public const int Eirin = 19;
+			public const int Ekisya = 20;
+			public const int Elis = 21;
+			public const int Ellen = 22;
+			public const int Elly = 23;
+			public const int Enoko = 24;
+			public const int Eternitylarva = 25;
+			public const int Flandre = 26;
+			public const int Futo = 27;
+			public const int Gengetu = 28;
+			public const int Genjii = 29;
+			public const int Hatate = 30;
+			public const int Hecatia = 31;
+			public const int Hina = 32;
+			public const int Hisami = 33;
+			public const int Ichirin = 34;
+			public const int Iku = 35;
+			public const int Junko = 36;
+			public const int Jyoon = 37;
+			public const int Kagerou = 38;
+			public const int Kaguya = 39;
+			public const int Kana = 40;
+			public const int Kanako = 41;
+			public const int Kasen = 42;
+			public const int Keiki = 43;
+			public const int Keine = 44;
+			public const int Kikuri = 45;
+			public const int Kisume = 46;
+			public const int Koakuma = 47;
+			public const int Kogasa = 48;
+			public const int Koishi = 49;
+			public const int Kokoro = 50;
+			public const int Komachi = 51;
+			public const int Konngara = 52;
+			public const int Kosuzu = 53;
+			public const int Kotohime = 54;
+			public const int Kurumi = 55;
+			public const int Kutaka = 56;
+			public const int Kyouko = 57;
+			public const int Letty = 58;
+			public const int Lilywhite = 59;
+			public const int Luize = 60;
+			public const int Lunarchild = 61;
+			public const int Lunasa = 62;
+			public const int Lyrica = 63;
+			public const int Mai = 64;
+			public const int Mamizou = 65;
+			public const int Maribel = 66;
+			public const int Marisa = 67;
+			public const int Mayumi = 68;
+			public const int Medicine = 69;
+			public const int Megumu = 70;
+			public const int Meira = 71;
+			public const int Meirin = 72;
+			public const int Merlin = 73;
+			public const int Mike = 74;
+			public const int Miko = 75;
+			public const int Mima = 76;
+			public const int Minamitsu = 77;
+			public const int Minoriko = 78;
+			public const int Misumaru = 79;
+			public const int Miyoi = 80;
+			public const int Mizuchi = 81;
+			public const int Mokou = 82;
+			public const int Momizi = 83;
+			public const int Momoyo = 84;
+			public const int Mugetu = 85;
+			public const int Mystia = 86;
+			public const int Nareko = 87;
+			public const int Narumi = 88;
+			public const int Nazrin = 89;
+			public const int Nemuno = 90;
+			public const int Nina = 91;
+			public const int Nitori = 92;
+			public const int Nue = 93;
+			public const int Okina = 94;
+			public const int Orange = 95;
+			public const int Parsee = 96;
+			public const int Patchouli = 97;
+			public const int Raiko = 98;
+			public const int Ran = 99;
+			public const int Reimu = 100;
+			public const int Reisen = 101;
+			public const int ReisenSecond = 102;
+			public const int Remilia = 103;
+			public const int Renko = 104;
+			public const int Rika = 105;
+			public const int Rikako = 106;
+			public const int Rin = 107;
+			public const int Ringo = 108;
+			public const int Rinnosuke = 109;
+			public const int Rumia = 110;
+			public const int Ruukoto = 111;
+			public const int Sagume = 112;
+			public const int Saki = 113;
+			public const int Sakuya = 114;
+			public const int Sanae = 115;
+			public const int Sannyo = 116;
+			public const int Sara = 117;
+			public const int Sariel = 118;
+			public const int Satono = 119;
+			public const int Satori = 120;
+			public const int Seiga = 121;
+			public const int Seija = 122;
+			public const int Seiran = 123;
+			public const int Sekibanki = 124;
+			public const int Shinki = 125;
+			public const int Shinmyoumaru = 126;
+			public const int Shion = 127;
+			public const int Shizuha = 128;
+			public const int Singyoku = 129;
+			public const int Starsapphire = 130;
+			public const int Suika = 131;
+			public const int Sumireko = 132;
+			public const int Sunnymilk = 133;
+			public const int Suwako = 134;
+			public const int Syou = 135;
+			public const int Takane = 136;
+			public const int Teireida = 137;
+			public const int Tenshi = 138;
+			public const int Tewi = 139;
+			public const int Tojiko = 140;
+			public const int Tokiko = 141;
+			public const int Toyohime = 142;
+			public const int Tsukasa = 143;
+			public const int Ubame = 144;
+			public const int Urumi = 145;
+			public const int Utsuho = 146;
+			public const int Wakasagihime = 147;
+			public const int Wriggle = 148;
+			public const int Yachie = 149;
+			public const int Yamame = 150;
+			public const int Yatsuhashi = 151;
+			public const int Yorihime = 152;
+			public const int Yoshika = 153;
+			public const int Youmu = 154;
+			public const int Yuiman = 155;
+			public const int Yukari = 156;
+			public const int Yuki = 157;
+			public const int Yumeko = 158;
+			public const int Yumemi = 159;
+			public const int Yuugenmagan = 160;
+			public const int Yuugi = 161;
+			public const int Yuuka = 162;
+			public const int Yuuma = 163;
+			public const int Yuyuko = 164;
+			public const int Zanmu = 165;
 		}
 
-		public const int length = 160;
+		public const int length = 166;
 
 		/// <summary>
 		/// <para>List of Strings.</para>
@@ -313,6 +319,7 @@ namespace TouhouData
 		{
 			public const string Akyuu = "Akyuu";
 			public const string Alice = "Alice";
+			public const string Ariya = "Ariya";
 			public const string Aunn = "Aunn";
 			public const string Aya = "Aya";
 			public const string Benben = "Benben";
@@ -320,6 +327,7 @@ namespace TouhouData
 			public const string Byakuren = "Byakuren";
 			public const string Chen = "Chen";
 			public const string Chimata = "Chimata";
+			public const string Chimi = "Chimi";
 			public const string Chiyari = "Chiyari";
 			public const string Chiyuri = "Chiyuri";
 			public const string Cirno = "Cirno";
@@ -396,9 +404,11 @@ namespace TouhouData
 			public const string Momoyo = "Momoyo";
 			public const string Mugetu = "Mugetu";
 			public const string Mystia = "Mystia";
+			public const string Nareko = "Nareko";
 			public const string Narumi = "Narumi";
 			public const string Nazrin = "Nazrin";
 			public const string Nemuno = "Nemuno";
+			public const string Nina = "Nina";
 			public const string Nitori = "Nitori";
 			public const string Nue = "Nue";
 			public const string Okina = "Okina";
@@ -451,6 +461,7 @@ namespace TouhouData
 			public const string Tokiko = "Tokiko";
 			public const string Toyohime = "Toyohime";
 			public const string Tsukasa = "Tsukasa";
+			public const string Ubame = "Ubame";
 			public const string Urumi = "Urumi";
 			public const string Utsuho = "Utsuho";
 			public const string Wakasagihime = "Wakasagihime";
@@ -461,6 +472,7 @@ namespace TouhouData
 			public const string Yorihime = "Yorihime";
 			public const string Yoshika = "Yoshika";
 			public const string Youmu = "Youmu";
+			public const string Yuiman = "Yuiman";
 			public const string Yukari = "Yukari";
 			public const string Yuki = "Yuki";
 			public const string Yumeko = "Yumeko";
@@ -494,6 +506,17 @@ namespace TouhouData
 			new LocaleJa ("アリス", "アリス・マーガトロイド", "ありす", "ありす・まーがとろいど"),
 			new Locale ("Alice", "Alice Margatroid"),
 			new Locale ("爱丽丝", "爱丽丝·玛格特洛依德")
+		);
+		/// <summary>
+		/// <para>Ariya Iwanaga</para>
+		/// <para>磐永 阿梨夜</para>
+		/// </summary>
+		public static readonly Character Ariya = new Character (
+			IDs.Ariya,
+			Strings.Ariya,
+			new LocaleJa ("阿梨夜", "磐永 阿梨夜", "ありや", "いわなが ありや"),
+			new Locale ("Ariya", "Ariya Iwanaga"),
+			new Locale ("阿梨夜", "磐永 阿梨夜")
 		);
 		/// <summary>
 		/// <para>Aunn Komano</para>
@@ -573,6 +596,17 @@ namespace TouhouData
 			new LocaleJa ("千亦", "天弓 千亦", "ちまた", "てんきゅう ちまた"),
 			new Locale ("Chimata", "Chimata Tenkyuu"),
 			new Locale ("千亦", "天弓 千亦")
+		);
+		/// <summary>
+		/// <para>Chimi Houjuu</para>
+		/// <para>封獣 チミ</para>
+		/// </summary>
+		public static readonly Character Chimi = new Character (
+			IDs.Chimi,
+			Strings.Chimi,
+			new LocaleJa ("チミ", "封獣 チミ", "ちみ", "ほうじゅう ちみ"),
+			new Locale ("Chimi", "Chimi Houjuu"),
+			new Locale ("魑魅", "封兽 魑魅")
 		);
 		/// <summary>
 		/// <para>Chiyari Tenkajin</para>
@@ -1425,6 +1459,17 @@ namespace TouhouData
 			new Locale ("米斯蒂娅", "米斯蒂娅·萝蕾拉")
 		);
 		/// <summary>
+		/// <para>Nareko Michigami</para>
+		/// <para>道神 馴子</para>
+		/// </summary>
+		public static readonly Character Nareko = new Character (
+			IDs.Nareko,
+			Strings.Nareko,
+			new LocaleJa ("馴子", "道神 馴子", "なれこ", "みちがみ なれこ"),
+			new Locale ("Nareko", "Nareko Michigami"),
+			new Locale ("驯子", "道神 驯子")
+		);
+		/// <summary>
 		/// <para>Narumi Yatadera</para>
 		/// <para>矢田寺 成美</para>
 		/// </summary>
@@ -1456,6 +1501,17 @@ namespace TouhouData
 			new LocaleJa ("ネムノ", "坂田 ネムノ", "ねむの", "さかた ねむの"),
 			new Locale ("Nemuno", "Nemuno Sakata"),
 			new Locale ("合欢", "坂田 合欢")
+		);
+		/// <summary>
+		/// <para>Nina Watari</para>
+		/// <para>渡里 ニナ</para>
+		/// </summary>
+		public static readonly Character Nina = new Character (
+			IDs.Nina,
+			Strings.Nina,
+			new LocaleJa ("ニナ", "渡里 ニナ", "にな", "わたり にな"),
+			new Locale ("Nina", "Nina Watari"),
+			new Locale ("贝子", "渡里 贝子")
 		);
 		/// <summary>
 		/// <para>Nitori Kawashiro</para>
@@ -2042,6 +2098,17 @@ namespace TouhouData
 			new Locale ("典", "菅牧 典")
 		);
 		/// <summary>
+		/// <para>Ubame Chirizuka</para>
+		/// <para>塵塚 ウバメ</para>
+		/// </summary>
+		public static readonly Character Ubame = new Character (
+			IDs.Ubame,
+			Strings.Ubame,
+			new LocaleJa ("ウバメ", "塵塚 ウバメ", "うばめ", "ちりづか うばめ"),
+			new Locale ("Ubame", "Ubame Chirizuka"),
+			new Locale ("姥芽", "尘塚 姥芽")
+		);
+		/// <summary>
 		/// <para>Urumi Ushizaki</para>
 		/// <para>牛崎 潤美</para>
 		/// </summary>
@@ -2152,6 +2219,17 @@ namespace TouhouData
 			new LocaleJa ("妖夢", "魂魄 妖夢", "ようむ", "こんぱく ようむ"),
 			new Locale ("Youmu", "Youmu Konpaku"),
 			new Locale ("妖梦", "魂魄 妖梦")
+		);
+		/// <summary>
+		/// <para>Yuiman Asama</para>
+		/// <para>ユイマン・浅間</para>
+		/// </summary>
+		public static readonly Character Yuiman = new Character (
+			IDs.Yuiman,
+			Strings.Yuiman,
+			new LocaleJa ("ユイマン", "ユイマン・浅間", "ゆいまん", "ゆいまん・あさま"),
+			new Locale ("Yuiman", "Yuiman Asama"),
+			new Locale ("维缦", "维缦·浅间")
 		);
 		/// <summary>
 		/// <para>Yukari Yakumo</para>
@@ -2302,6 +2380,7 @@ namespace TouhouData
 		{
 			IDs.Akyuu => Akyuu,
 			IDs.Alice => Alice,
+			IDs.Ariya => Ariya,
 			IDs.Aunn => Aunn,
 			IDs.Aya => Aya,
 			IDs.Benben => Benben,
@@ -2309,6 +2388,7 @@ namespace TouhouData
 			IDs.Byakuren => Byakuren,
 			IDs.Chen => Chen,
 			IDs.Chimata => Chimata,
+			IDs.Chimi => Chimi,
 			IDs.Chiyari => Chiyari,
 			IDs.Chiyuri => Chiyuri,
 			IDs.Cirno => Cirno,
@@ -2385,9 +2465,11 @@ namespace TouhouData
 			IDs.Momoyo => Momoyo,
 			IDs.Mugetu => Mugetu,
 			IDs.Mystia => Mystia,
+			IDs.Nareko => Nareko,
 			IDs.Narumi => Narumi,
 			IDs.Nazrin => Nazrin,
 			IDs.Nemuno => Nemuno,
+			IDs.Nina => Nina,
 			IDs.Nitori => Nitori,
 			IDs.Nue => Nue,
 			IDs.Okina => Okina,
@@ -2440,6 +2522,7 @@ namespace TouhouData
 			IDs.Tokiko => Tokiko,
 			IDs.Toyohime => Toyohime,
 			IDs.Tsukasa => Tsukasa,
+			IDs.Ubame => Ubame,
 			IDs.Urumi => Urumi,
 			IDs.Utsuho => Utsuho,
 			IDs.Wakasagihime => Wakasagihime,
@@ -2450,6 +2533,7 @@ namespace TouhouData
 			IDs.Yorihime => Yorihime,
 			IDs.Yoshika => Yoshika,
 			IDs.Youmu => Youmu,
+			IDs.Yuiman => Yuiman,
 			IDs.Yukari => Yukari,
 			IDs.Yuki => Yuki,
 			IDs.Yumeko => Yumeko,
@@ -2473,6 +2557,7 @@ namespace TouhouData
 		{
 			Strings.Akyuu => Akyuu,
 			Strings.Alice => Alice,
+			Strings.Ariya => Ariya,
 			Strings.Aunn => Aunn,
 			Strings.Aya => Aya,
 			Strings.Benben => Benben,
@@ -2480,6 +2565,7 @@ namespace TouhouData
 			Strings.Byakuren => Byakuren,
 			Strings.Chen => Chen,
 			Strings.Chimata => Chimata,
+			Strings.Chimi => Chimi,
 			Strings.Chiyari => Chiyari,
 			Strings.Chiyuri => Chiyuri,
 			Strings.Cirno => Cirno,
@@ -2556,9 +2642,11 @@ namespace TouhouData
 			Strings.Momoyo => Momoyo,
 			Strings.Mugetu => Mugetu,
 			Strings.Mystia => Mystia,
+			Strings.Nareko => Nareko,
 			Strings.Narumi => Narumi,
 			Strings.Nazrin => Nazrin,
 			Strings.Nemuno => Nemuno,
+			Strings.Nina => Nina,
 			Strings.Nitori => Nitori,
 			Strings.Nue => Nue,
 			Strings.Okina => Okina,
@@ -2611,6 +2699,7 @@ namespace TouhouData
 			Strings.Tokiko => Tokiko,
 			Strings.Toyohime => Toyohime,
 			Strings.Tsukasa => Tsukasa,
+			Strings.Ubame => Ubame,
 			Strings.Urumi => Urumi,
 			Strings.Utsuho => Utsuho,
 			Strings.Wakasagihime => Wakasagihime,
@@ -2621,6 +2710,7 @@ namespace TouhouData
 			Strings.Yorihime => Yorihime,
 			Strings.Yoshika => Yoshika,
 			Strings.Youmu => Youmu,
+			Strings.Yuiman => Yuiman,
 			Strings.Yukari => Yukari,
 			Strings.Yuki => Yuki,
 			Strings.Yumeko => Yumeko,
