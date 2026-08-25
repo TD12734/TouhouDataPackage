@@ -10,7 +10,7 @@
 ## 概述
 东方资料包裹是一个数据包，可以让你获取有关东方Project中角色的信息。
 
-涵盖了最新作品（兽王园）、旧作、书籍中的人物。
+涵盖了最新作品（锦上京）、旧作、书籍中的人物。
 
 对于每个角色，例如灵梦，可以从源代码中轻松获取以下信息：
 
@@ -226,7 +226,7 @@ PlayerPrefs.SetInt(Character.ReisenSecond.String + "_Power", 20);
 ```cs
 Debug.Log (Character.Akyuu.ID); // 0
 Debug.Log (Character.Alice.ID); // 1
-Debug.Log (Character.Zanmu.ID); // 159
+Debug.Log (Character.Zanmu.ID); // 165
 ```
 
 #### ChangeLanguage
@@ -307,7 +307,7 @@ for (int i = 0; i < Character.length; i++)
    Character character = Character.Get (i);
    if (character != null)
    {
-      Debug.Log (character.String); // Akyuu, Alice, Aunn, ... , Yuuma, Yuyuko, Zanmu
+      Debug.Log (character.String); // Akyuu, Alice, Ariya, ... , Yuuma, Yuyuko, Zanmu
    }
 }
 ```
@@ -398,6 +398,7 @@ Samples 目录包含如何使用此包的示例，以及使用时有用的模板
 
 - Akyuu
 - Alice
+- Ariya
 - Aunn
 - Aya
 - Benben
@@ -405,6 +406,7 @@ Samples 目录包含如何使用此包的示例，以及使用时有用的模板
 - Byakuren
 - Chen
 - Chimata
+- Chimi
 - Chiyari
 - Chiyuri
 - Cirno
@@ -481,9 +483,11 @@ Samples 目录包含如何使用此包的示例，以及使用时有用的模板
 - Momoyo
 - Mugetu
 - Mystia
+- Nareko
 - Narumi
 - Nazrin
 - Nemuno
+- Nina
 - Nitori
 - Nue
 - Okina
@@ -536,6 +540,7 @@ Samples 目录包含如何使用此包的示例，以及使用时有用的模板
 - Tokiko
 - Toyohime
 - Tsukasa
+- Ubame
 - Urumi
 - Utsuho
 - Wakasagihime
@@ -546,6 +551,7 @@ Samples 目录包含如何使用此包的示例，以及使用时有用的模板
 - Yorihime
 - Yoshika
 - Youmu
+- Yuiman
 - Yukari
 - Yuki
 - Yumeko
